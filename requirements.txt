@@ -1,0 +1,38 @@
+## Use with Python version 3.12.3
+
+# Core libraries for data manipulation and analysis
+pandas>=1.5.3,<2.2.0
+numpy>=1.26.0,<2.3.0
+scipy>=1.12.0,<1.14.0
+sqlalchemy>=2.0.7,<2.1.0
+setuptools>=65.0.0
+
+# Machine learning libraries (AutoGluon compatible)
+scikit-learn>=1.4.0,<1.7.0
+joblib>=1.2.0,<1.4.0
+matplotlib>=3.7.0,<3.8.0
+seaborn>=0.12.0,<0.13.0
+
+# AutoML libraries
+h2o>=3.36.0.1,<4.0.0
+autogluon
+
+# Hyperparameter optimization
+scikit-optimize>=0.9.0,<0.10.0
+optuna>=3.0.0,<4.0.0
+
+# Imbalanced learning (compatible with newer scikit-learn)
+imbalanced-learn>=0.12.0
+
+# Date and time manipulation
+python-dateutil==2.8.2
+pytz>=2022.7.1
+
+# Geospatial libraries
+geopy>=2.3.0,<2.4.0
+
+# Visualization libraries
+plotly>=5.9.0,<5.19.0
+
+# Environment management
+virtualenv>=20.17.1,<21.0.0
