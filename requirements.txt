@@ -16,6 +16,7 @@ seaborn>=0.12.0,<0.13.0
 # AutoML libraries
 h2o>=3.36.0.1,<4.0.0
 autogluon
+flaml
 
 # Hyperparameter optimization
 scikit-optimize>=0.9.0,<0.10.0
