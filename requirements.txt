@@ -1,4 +1,4 @@
-## Use with Python version 3.12.3
+## Use with Python version 3.11.4
 
 # Core libraries for data manipulation and analysis
 pandas>=1.5.3,<2.2.0
